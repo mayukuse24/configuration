@@ -1,0 +1,230 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/mayukuse24/Downloads/computer networks/" . "practice/")
+ ("/home/mayukuse24/Downloads/AI/" . "UT3/")
+ ("/home/mayukuse24/Downloads/" . "AI/")
+ ("/home/mayukuse24/modulesldd/" . "scull/")
+ ("/home/mayukuse24/.config/" . "conky/")
+ ("/home/mayukuse24/learnGL/OGL3Sample2D/" . "GLFW/")
+ ("/home/mayukuse24/learnGL/" . "prac/")
+ ("/sudo:root@mayukuse:/" . "etc/")
+ ("/sudo::/etc/httpd/" . "conf/")
+ ("/sudo::/etc/" . "httpd/")
+ ("/etc/httpd/" . "conf/")
+ ("/etc/" . "httpd/")
+ ("/home/mayukuse24/ldd3/" . "scull/")
+ ("/home/mayukuse24/sympy/doc/" . "cheatsheet/")
+ ("/home/mayukuse24/sympy/" . "doc/")
+ ("/home/mayukuse24/sympy/sympy/" . "solvers/")
+ ("/srv/http/core/resources/src/" . "mediawiki.special/")
+ ("/srv/http/core/resources/" . "src/")
+ ("/srv/http/core/includes/" . "json/")
+ ("/srv/http/core/" . "resources/")
+ ("/srv/" . "http/")
+ ("/" . "srv/")
+ ("/srv/http/web-dev-php/" . "mysite/")
+ ("/srv/http/" . "web-dev-php/")
+ ("/home/" . "mayukuse24/")
+ ("/home/mayukuse24/" . "kcis/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mayukuse24/"
+ "/home/mayukuse24/Downloads/AI/UT3/"
+ "/home/mayukuse24/Downloads/computer networks/practice/"
+ "/home/mayukuse24/kcis/kcis/"
+ "/home/mayukuse24/Downloads/computer networks/"
+ "/home/mayukuse24/Downloads/computer networks/asg-01/"
+ "/home/mayukuse24/learnGL/map3D/"
+ "/home/mayukuse24/learnGL/prac/"
+ "/home/mayukuse24/learnGL/"
+ "/home/mayukuse24/learnGL/OGL3Sample2D/GLFW/"
+ "/home/mayukuse24/learnGL/OGL3Sample2D/GLUT/"
+ "/home/mayukuse24/learnGL/prac/GL3_Fonts_Textures/"
+ "/home/mayukuse24/modulesldd/"
+ "/home/mayukuse24/ldd3/scull/"
+ "/home/mayukuse24/modulesldd/scull/"
+ "/home/mayukuse24/.config/conky/"
+ "/home/mayukuse24/.config/conky/autostart/"
+ "/sudo::/etc/httpd/conf/"
+ "/etc/httpd/conf/"
+ "/srv/http/"
+ "/home/mayukuse24/scripts/"
+ "/home/mayukuse24/projeuler/"
+ "/home/mayukuse24/ldd3/misc-modules/"
+ "/home/mayukuse24/ldd3/"
+ "/srv/http/web-dev-php/mysite/"
+ "/home/mayukuse24/sympy/sympy/solvers/"
+ "/home/mayukuse24/sympy/sympy/integrals/"
+ "/home/mayukuse24/sympy/sympy/core/"
+ "/home/mayukuse24/web-scraping/"
+ "/home/mayukuse24/sympy/sympy/stats/"
+ "/home/mayukuse24/sympy/doc/cheatsheet/"
+ "/home/mayukuse24/sympy/sympy/printing/"
+ "/srv/http/core/includes/specials/"
+ "/srv/http/core/resources/src/mediawiki.special/"
+ "/srv/http/core/includes/json/"
+ "/srv/http/core/includes/user/"
+ "/srv/http/core/includes/"
+ "/srv/http/web-dev-php/practice/"
+ "/home/mayukuse24/helm/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "team79.py"
+ "bot.py"
+ "server.py"
+ "client.py"
+ "index.css"
+ "index.html"
+ "gallery2.css"
+ "gallery.css"
+ "gallery.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mayukuse24/" (22223 24921 749083 412000) ".slime" "mailman/" ".pip/" ".python_history" ".bashrc" ".zcompdump-mayukuse-5.2" "MATLAB/" ".histfile" "Desktop/" ".gnupg/" ".emacs.d/" ".mozilla/" ".zsh_history" ".bash_logout" ".java/" ".zshrc" "Documents/" ".#todo.org" ".gnome/" ".gstreamer-0.10/" ".bash_profile" "emacs-settings/" "Downloads/" ".subversion/" "dcdownloads/" ".fonts/" ".TrueCrypt/" "temp/" ".config/" "nohup.out" "projeuler/" "scripts/" ".pki/" ".codeblocks/" "#todo.org#" "core/" "todo.org~" "web-scraping/" ".dmrc" ".ccr_black_diamond/" "libsoy/" "blog/" ".lesshst" "DCshare/" "maildev/" ".esd_auth" ".ssh/" ".xfce4-session.verbose-log.last" ".matlab/" ".zsh-update" ".start-conky" "../" ".dtella/" "initsoftap" "sympy/" ".zshrc.pre-oh-my-zsh" ".local/" ".mysql_history" "vlc-record-2016-02-17-20h07m20s-The Cranberries - Zombie (Lyrics).mp3-.mp3" "2016-01-31-205848_1366x768_scrot.png" "pysoy/" "wallpaper/" ".zcompdump" ".dc++/" "learnGL/" "dtella/" ".conky/" ".zshrc.zni" "sugar-build/" ".emacs~" "ldd3/" "conkyscripts/" ".emacs" ".xfce4-session.verbose-log" ".bash_history" ".oh-my-zsh/" ".tmp_versions/" "output.txt" "linux/" ".composer/" ".viminfo" "testGL/" ".macromedia/" ".xinitrc" ".distlib/" "todo.org" ".ICEauthority" ".gitconfig" ".thumbnails/" "phpmyadmin/" ".asoundrc" ".cache/" "Music/" ".rtorrent.rc" "cpython/" ".viminfo.tmp" ".ipython/" ".adobe/" "vlc-record-2016-02-17-11h49m40s-Butterflies and Hurricanes-.mp3" ".conky-weather-icons/" ".Xauthority" "kcis/" ".kde4/" "examples/" ".minecraft/" "modulesldd/" "AUR/" "./" ".xscreensaver" ".purple/")
+
+ ("/home/mayukuse24/Downloads/AI/UT3/" (22223 25036 365751 122000) ".git/" "bot.py~" "team79.py" "bot.py" "../" "evaluator_code.py" "team79.py~" "evaluator_code.py~" "./")
+
+ ("/home/mayukuse24/Downloads/computer networks/practice/" (22222 16576 889834 383000) "file1" "client.py" ".git/" "client.py~" "afterlife.mp3" "testfile" "server.py~" "../" "testout" "Muse_Butterflies.mp3" "Must_Butterflies.mp3" "Spring-2016.pdf" "file3" "sharing/" "file2" "server.py" "./")
+
+ ("/home/mayukuse24/Downloads/computer networks/" (22222 15433 83157 313000) "practice/" "ComputerNetworks-Ass1.pdf" "../" "FileSharingProtocol.tar" "FileSharingProtocol/" "Week-4-Application-Layer.pptx" "asg-01/" "Chapter1.ppt" "Lecture 1.pdf" "Week-3-Introduction.pdf" "try.py" "./" "Week-2-Introduction.pdf")
+
+ ("/home/mayukuse24/Downloads/" (22223 21929 612389 529000) "LocalSettings.php" "cykul.pdf" "payment reference.jpg" "Networking/" "README.txt" "Scan0005.jpg" "computer networks/" "chatClient.py" "Mineshafter-launcher.jar" "SFML-2.3.2/" "../" "irrKlang-64bit-1.5.0/" "FileSharingProtocol/" "red_nsa_by_speedracker-d6fc26a.7z" "Spring-2016.pdf" "tolua++-1.0.93-1-x86_64.pkg.tar.xz" "AI/" "MidSem1_S16.pdf" "04_RasterizationMod.pdf" "Minecraft.jar" "ES/" "Scan0004.jpg" "intro to humanities/" "Graphics/" "OptiFine_1.8.9_HD_U_H2.jar" "Terramining_Launcher_v7.0.jar" "examples/" "DSAA/" ".minecraft/" "./")
+
+ ("/home/mayukuse24/kcis/kcis/" (22214 24718 414925 868000) ".git/" "gallery.html" "gallery.css" "index.html" "gallery.css~" "Photos/" "committee.html" "gallery2.css" "about.html" "../" "overview.html" "index.css" "Photos.zip" "centers.html" "faculty.html" "gallery2.css~" "media.html" "./")
+
+ ("/home/mayukuse24/kcis/" (22214 22371 725027 239000) "kcis.tar.gz" "kcis2/" "../" "kcis/" "./")
+
+ ("/home/mayukuse24/Downloads/Networking/" (22175 24516 385820 894000) "../" "Week-4-Application-Layer.pptx" "Lecture 1.pdf" "Week-3-Introduction.pdf" "./" "Week-2-Introduction.pdf")
+
+ ("/home/mayukuse24/Downloads/computer networks/asg-01/" (22203 39333 635889 67000) "s.py" "../" "r.py" "./")
+
+ ("/home/mayukuse24/learnGL/" (22211 32512 353107 727000) "OGL3Sample2D/" "map3D/" "stone.png" "ice.png" "README.txt" "samepleproj/" "temp/" "wood.png" "TextureRender.vert" "glad.c" "cool" "prac/" "201401139.zip" "fontrender.frag" "tute/" "../" "first_try.cpp~" "Sample_GL.vert" "Makefile" "__MACOSX/" "sample2D" "main.cpp" "first_try.cpp" "Sample_GL.frag" "arial.ttf" "another/" "fontrender.vert" "./" "TextureRender.frag")
+
+ ("/home/mayukuse24/learnGL/prac/" (22211 26561 139720 261000) ".git/" "README.txt" "nightsky.jpe" "beach.png" "elevate.jpg" "TextureRender.vert" "glad.c" "background.png" "201401139.zip" "fontrender.frag" "dollar.png" "beach2.png" "../" "brick.png" "practice.o" "stand.png" "Sample_GL.vert" "ground_texture.jpg" "dirtybrick.png" "cannonball.cpp" "silverbrick.png" "practice.cpp~" "Makefile" "Makefile~" "sample2D" "#cannonball.cpp#" "Sample_GL.frag" "arial.ttf" "background.jpe" "fontrender.vert" "./" "TextureRender.frag")
+
+ ("/home/mayukuse24/learnGL/map3D/" (22211 32468 209773 992000) "object.h~" ".git/" "Sample_GL3.frag" "initial.h~" "keyboard.h~" "player.cpp~" "square.h~" "glad.o" "movable.h" "ikpMP3.so" "map1.txt" "initial.h" "README.txt" "collision.cpp" "beach.png" "player.cpp" "TextureRender.vert" "object.h" "collision.h" "glad.c" "map2.txt" "initial.cpp~" "main.cpp~" "map3.txt" "collision.cpp~" "shape.h~" "ballcollision.h" "fontrender.frag" "player.h" "beach2.png" "initial.cpp" "sphere.cpp~" "map.txt~" "../" "keyboard.h" "cube.h" "libIrrKlang.so" "tile_texture.jpg" "object.cpp~" "ballcollision.cpp" "movable.h~" "theme.mp3" "tempo" "sphere.cpp" "game.h" "PR.jpg" "elevate.png" "sphere.h~" "object.cpp" "game.h~" "plat.jpg" "ikpFlac.so" "keyboard.cpp" "Makefile" "ballcollision.h~" "cube.cpp" "temp.cpp" "collision.h~" "player.h~" "Makefile.mac" "main.cpp" "cube.cpp~" "map4.txt~" "Sample_GL3_2D.cpp~" "world.cpp~" "map2.txt~" "arial.ttf" "movable.cpp~" "world.cpp" "movable.cpp" "cube.h~" "Sample_GL3.vert" "map4.txt" "map3.txt~" "map1.txt~" "game.cpp~" "shape.h" "temp2.txt" "game.cpp" "keyboard.cpp~" "rectangle.h~" "fontrender.vert" "ballcollision.cpp~" "sphere.h" "./" "TextureRender.frag")
+
+ ("/home/mayukuse24/Downloads/AI/" (22212 18720 908980 630000) "artificial_intelligence_a_modern_approach_3rd_edition.pdf" "Artificial Intelligence A Modern Approach.pdf" "Additional material.pdf" "../" "Minsky - Steps Toward Artificial Intelligence.pdf" "UT3/" "Lecture 1.pdf" "AI-Project-2016.pdf" "artificial-intelligence-modern-approach.9780131038059.25368.pdf" "./")
+
+ ("/home/mayukuse24/learnGL/OGL3Sample2D/GLFW/" (22186 16360 293164 26000) "glad.c" "../" "Sample_GL.vert" "Sample_GL3_2D.cpp" "Makefile" "sample2D" "Makefile.mac" "Sample_GL3_2D.cpp~" "Sample_GL.frag" "./")
+
+ ("/home/mayukuse24/learnGL/OGL3Sample2D/GLUT/" (22186 16328 486497 69000) "../" "Sample_GL.vert" "Sample_GL3_2D.cpp" "Makefile" "Makefile~" "sample2D" "Sample_GL3_2D.cpp~" "Sample_GL.frag" "Sample_GL3_2D.o" "./")
+
+ ("/home/mayukuse24/modulesldd/scull/" (22165 36539 979088 530000) "scull.mod.c" "scull.c" "scull.o" "../" ".scull.o.cmd" "Makefile" "modules.order" ".tmp_versions/" "scull.ko" "Module.symvers" "scull.c~" "scull.h" ".scull.ko.cmd" "scull.mod.o" ".scull.mod.o.cmd" "./")
+
+ ("/home/mayukuse24/ldd3/scull/" (22166 29437 352364 582000) ".pipe.o.cmd" "access.c" "scull_load" "../" "main.c" "main.o" ".main.o.cmd" "scull_unload" "Makefile" "pipe.o" ".tmp_versions/" "scull.h" "pipe.c" "#access.c#" "./" "scull.init")
+
+ ("/home/mayukuse24/learnGL/prac/GL3_Fonts_Textures/" (22181 17452 145249 222000) "Sample_GL3.frag" "README.txt" "beach.png" "TextureRender.vert" "fontrender.frag" "beach2.png" "../" "Sample_GL3_2D.cpp" "Makefile" "Makefile.mac" "arial.ttf" "Sample_GL3.vert" "fontrender.vert" "./" "TextureRender.frag")
+
+ ("/home/mayukuse24/.emacs.d/" (22168 24121 863356 644000) "ac-comphist.dat" "ido.last" "helm/" "elpa/" "tramp" "emacs-async/" "../" "ido.last~" "auto-save-list/" "irony/" "./")
+
+ ("/home/mayukuse24/.emacs.d/elpa/" (22168 23095 319960 293000) "pkg-info-20150517.443/" "marmalade-demo-0.0.5/" "smooth-scrolling-readme.txt" "flycheck-20160111.1516/" "archives/" "zenburn-theme-readme.txt" "pylint-20150123.1600/" "pylint-readme.txt" "auto-complete-readme.txt" "company-20160114.948/" "let-alist-1.0.4.signed" "seq-1.11.signed" "company-irony-c-headers-readme.txt" "zerodark-theme-20151106.334/" "let-alist-1.0.4/" "dash-20151216.1315/" "flycheck-readme.txt" "../" "smex-readme.txt" "org-20151123.signed" "web-mode-8.0.4/" "irony-20160106.1223/" "zerodark-theme-readme.txt" "auto-complete-20160107.8/" "gnupg/" "company-irony-readme.txt" "org-20151123/" "yasnippet-0.6.1/" "monokai-theme-20151210.307/" "company-irony-20150810.239/" "auto-complete-1.4/" "smooth-scrolling-20131219.2039/" "smex-20151212.1409/" "popup-0.5/" "seq-1.11/" "epl-20150517.433/" "monokai-theme-readme.txt" "flycheck-irony-readme.txt" "./" "irony-readme.txt" "flycheck-irony-20150728.1231/" "zenburn-theme-20151101.1158/")
+
+ ("/home/mayukuse24/.emacs.d/elpa/irony-20160106.1223/" (22169 204 282490 171000) "irony-snippet.el" ".dir-locals.el" "server/" "irony-autoloads.el~" "irony.elc" "irony-diagnostics.el" "irony-cdb-libclang.elc" "irony-cdb.el" "irony-autoloads.el" "../" "irony-cdb.elc" "irony-completion.elc" "irony.el" "irony-completion.el" "irony-cdb-libclang.el" "irony-cdb-clang-complete.elc" "irony-snippet.elc" "irony-cdb-json.elc" "irony-cdb-json.el" "irony-pkg.el" "irony-diagnostics.elc" "irony-cdb-clang-complete.el" "./")
+
+ ("/home/mayukuse24/learnGL/OGL3Sample2D/" (22166 41903 625159 403000) "src/" "include/" "glut.h" "glad.c" "README" "../" "GLFW/" "Makefile" "GLUT/" "./")
+
+ ("/home/mayukuse24/.config/conky/" (22163 9722 239860 480000) "rc" "conky.conf~" "autostart/" "../" "conky.conf" "./")
+
+ ("/home/mayukuse24/.config/" (22163 5788 13158 27000) "Trolltech.conf" "ristretto/" "Thunar/" "vlc/" "gtk-3.0/" "gconf/" "gedit/" "dconf/" "../" "xfce4/" "htop/" "libreoffice/" "conky/" "audacious/" "pulse/" "gtk-2.0/" "mimeapps.list" "./")
+
+ ("/home/mayukuse24/.config/conky/autostart/" (22163 2596 433128 996000) "../" "conky.desktop" "./")
+
+ ("/etc/httpd/conf/" (22161 56282 927262 488000) "httpd.conf" "httpd.conf.pacnew" "httpd.conf~" "mime.types" "#_asudo_broot@mayukuse_b_aetc_ahttpd_aconf_ahttpd.conf#" "../" "./" "magic" "extra/")
+
+ ("/etc/httpd/modules/" (22161 20035 285769 348000) "mod_mpm_event.so" "mod_mpm_prefork.so" "mod_dbd.so" "mod_dir.so" "mod_logio.so" "mod_cgid.so" "mod_socache_memcache.so" "mod_mpm_worker.so" "mod_socache_shmcb.so" "mod_include.so" "mod_deflate.so" "mod_proxy_scgi.so" "mod_ldap.so" "mod_env.so" "mod_setenvif.so" "mod_authz_core.so" "httpd.exp" "mod_session_cookie.so" "mod_authn_socache.so" "mod_watchdog.so" "mod_session_dbd.so" "mod_log_config.so" "mod_xml2enc.so" "mod_auth_form.so" "mod_ext_filter.so" "mod_file_cache.so" "mod_authn_file.so" "mod_speling.so" "mod_substitute.so" "mod_authz_owner.so" "mod_buffer.so" "mod_dumpio.so" "mod_slotmem_plain.so" "mod_lbmethod_bytraffic.so" "mod_mime.so" "mod_autoindex.so" "mod_access_compat.so" "mod_dav.so" "mod_authz_host.so" "mod_expires.so" "mod_unique_id.so" "mod_headers.so" "mod_ident.so" "mod_session.so" "mod_sed.so" "mod_authnz_ldap.so" "../" "mod_auth_basic.so" "mod_unixd.so" "mod_lbmethod_byrequests.so" "mod_authn_core.so" "mod_session_crypto.so" "mod_authz_dbd.so" "mod_status.so" "mod_imagemap.so" "mod_usertrack.so" "mod_dav_fs.so" "./" "mod_reflector.so" "mod_authn_dbd.so" "mod_rewrite.so" "mod_http2.so" "mod_request.so" "mod_negotiation.so" "mod_authz_dbm.so" "mod_suexec.so" "mod_proxy_http.so" "mod_authz_user.so" "mod_lbmethod_heartbeat.so" "mod_cern_meta.so" "mod_authz_groupfile.so" "mod_lua.so" "mod_remoteip.so" "mod_dialup.so" "mod_authn_anon.so" "mod_cache_disk.so" "mod_data.so" "mod_version.so" "mod_authnz_fcgi.so" "mod_cgi.so" "mod_heartmonitor.so" "mod_proxy_ajp.so" "mod_reqtimeout.so" "mod_dav_lock.so" "mod_proxy_connect.so" "mod_allowmethods.so" "mod_log_forensic.so" "mod_socache_dbm.so" "mod_proxy_html.so" "mod_macro.so" "mod_authn_dbm.so" "mod_heartbeat.so" "mod_actions.so" "mod_auth_digest.so" "mod_cache.so" "mod_cache_socache.so" "mod_filter.so" "mod_ssl.so" "mod_log_debug.so" "mod_asis.so" "mod_proxy_ftp.so" "mod_lbmethod_bybusyness.so" "mod_ratelimit.so" "libphp7.so" "mod_proxy_express.so" "mod_info.so" "mod_echo.so" "mod_proxy_balancer.so" "mod_slotmem_shm.so" "mod_proxy_wstunnel.so" "mod_charset_lite.so" "mod_vhost_alias.so" "mod_userdir.so" "mod_alias.so" "mod_proxy.so" "mod_mime_magic.so" "mod_proxy_fdpass.so" "mod_proxy_fcgi.so")
+
+ ("/etc/httpd/" (22161 20035 185769 347000) "../" "./" "modules/" "conf/")
+
+ ("/etc/" (22161 20035 352436 15000) "shadow" "profile" "machine-id" "asound.conf" "dhcpcd.duid" "conf.d/" "ssh/" "depmod.d/" "gtk-3.0/" "fonts/" "locale.gen" "papersize" "sensors.d/" "group-" "passwd.OLD" "passwd" "UPower/" "xml/" "pkcs11/" "webapps/" "protocols" "resolvconf.conf" "motd" "pulse/" "zsh/" "avahi/" "slsh.rc" "drirc" "issue" "resolv.conf.bak" "NetworkManager/" "pacman.d/" "gai.conf" "modprobe.d/" "dhcpcd.conf" "passwd-" "php/" "initcpio/" "man_db.conf" "pam.d/" "logrotate.d/" "security/" "openvpn/" "mime.types" "netctl/" "ca-certificates/" "libpaper.d/" "cups/" "gshadow-" "dbus-1/" "pcmcia/" "udev/" "logrotate.conf" "sysctl.d/" "wpa_supplicant.conf" "binfmt.d/" "securetty" "healthd.conf" "hosts" "systemd/" "gtk-2.0/" "libnl/" "../" "modules-load.d/" "services" "X11/" "arch-release" "sudoers" "environment" "crypttab" "gemrc" "shadow-" "rc_maps.cfg" "fuse.conf" "group" "mkinitcpio.conf" "bash.bash_logout" "./" "trusted-key.key" "ifplugd/" "apparmor.d/" "profile.d/" "pm/" "mdadm.conf" "ld.so.cache" "mail.rc" ".updated" "geoclue/" "xdg/" "resolv.conf" "tmpfiles.d/" "yaourtrc" "ssl/" "mke2fs.conf" "sudoers.d/" "xinetd.d/" "host.conf" "iptables/" "mysql/" "vimrc" "default/" "os-release" "rsyncd.conf" "gconf/" "sensors3.conf" "nscd.conf" "hostapd/" "nsswitch.conf" "ImageMagick-6/" "request-key.d/" "localtime" "polkit-1/" "wpa_supplicant/" "at-spi2/" "httpd/" "udisks2/" "shells" "pacman.conf" "request-key.conf" "iproute2/" "fstab" ".pwd.lock" "makepkg.conf" "skel/" "gshadow" "mtab" "locale.conf" "openldap/" "lvm/" "krb5.conf" "inputrc" "dnsmasq.conf" "rc_keymaps/" "bash.bashrc" "ld.so.conf.d/" "login.defs" "nanorc" "wgetrc" "hostname" "kernel/" "ld.so.conf" "libreoffice/" "vdpau_wrapper.cfg" "netconfig" "texmf/" "rpc" "lightdm/" "mkinitcpio.d/" "adobe/")
+
+ ("/home/mayukuse24/scripts/" (22158 52997 575658 658000) "backup.sh" ".git/" "README.md" "dcup.sh" "genserver.sh" "../" "script.sh" "backup.sh~" "pkglist.txt" "yrecommendation.sh" "./")
+
+ ("/home/mayukuse24/projeuler/" (22157 51415 586460 320000) "1.py~" "../" "3b.py" "3b.py~" "2.py" "3.py" "1.py" "3.py~" "2.py~" "./")
+
+ ("/home/mayukuse24/modulesldd/" (22157 14701 532793 32000) "scull/" "helloworld.mod.c" ".helloworld.o.cmd" "memory/" ".helloworld.ko.cmd" "../" "helloworld.mod.o" "Makefile" "modules.order" ".tmp_versions/" "Module.symvers" "helloworld.ko" "helloworld.c" ".helloworld.mod.o.cmd" "helloworld.o" "./")
+
+ ("/home/mayukuse24/sympy/sympy/solvers/" (22132 2799 879887 169000) "solvers.py" "recurr.py" "diophantine.py" "tests/" "polysys.py" "../" "deutils.py" "ode.py" "__init__.py" "decompogen.py" "pde.py" "benchmarks/" "./" "inequalities.py" "bivariate.py" "solveset.py")
+
+ ("/srv/http/web-dev-php/mysite/" (22135 3929 993225 917000) "login.php" "About.php" "data/" "index.php" "About.css" "register.php" "layout.css~" "login.css" "../" "layout.css" "./" "layout.php~" ".git/" "About.css~" "register.php~" "login.html~" "About.php~" "login.php~" "layout.php" "passfile" "login.css~" "main.php" "index.php~")
+
+ ("/home/mayukuse24/ldd3/" (22139 5458 637146 752000) "scull/" ".git/" "misc-progs/" "README.Debian" "usb/" "scullc/" "scullp/" "include/" "skull/" "sbull/" "pci/" "README" "simple/" "../" "snull/" "sculld/" "Makefile" "LICENSE" "shortprint/" "scullv/" "lddbus/" "tty/" "misc-modules/" ".gitignore" "short/" "./")
+
+ ("/home/mayukuse24/ldd3/misc-modules/" (22139 12210 400541 500000) "jit.c" "kdatasize.c" "hello.o" "seq.c" "hello.c" "hellop.o" "kdataalign.c" "jiq.c" ".hellop.o.cmd" "../" "hellop.c" "silly.c" "sleepy.c" "Makefile" "modules.order" ".tmp_versions/" ".hello.o.cmd" "faulty.c" "./" "complete.c")
+
+ ("/home/mayukuse24/Downloads/examples/" (17027 56141 0 0) "scull/" "misc-progs/" "usb/" "scullc/" "scullp/" "include/" "skull/" "sbull/" "pci/" "simple/" "../" "snull/" "sculld/" "Makefile" "LICENSE" "shortprint/" "scullv/" "lddbus/" "tty/" "misc-modules/" "short/" "./")
+
+ ("/home/mayukuse24/Downloads/examples/misc-modules/" (22138 45127 153578 125000) "jit.c" "kdatasize.c" "seq.c" "hello.c" "kdataalign.c" "jiq.c" "../" "hellop.c" "silly.c" "sleepy.c" "Makefile" "modules.order" ".tmp_versions/" "faulty.c" "./" "complete.c")
+
+ ("/srv/http/web-dev-php/" (22131 3621 959902 153000) "IMG_0724.JPG" "practice/" "angular-demo/" "../" "./" "mysite/" "open/")
+
+ ("/home/mayukuse24/sympy/sympy/integrals/" (22128 2515 296276 814000) "quadrature.py" "transforms.py" "manualintegrate.py" "tests/" "risch.py" "heurisch.py" "meijerint.py" "prde.py" "../" "meijerint_doc.py" "rde.py" "__init__.py" "deltafunctions.py" "benchmarks/" "rationaltools.py" "integrals.py" "trigonometry.py" "./")
+
+ ("/home/mayukuse24/web-scraping/" (22130 36165 787876 784000) "../" "./")
+
+ ("/home/mayukuse24/sympy/doc/cheatsheet/" (22129 32793 70252 124000) "combinatoric_cheatsheet.pdf" "cheatsheet.tex" "combinatoric_cheatsheet.log" "../" "combinatoric_cheatsheet.tex" "combinatoric_cheatsheet.aux" "./")
+
+ ("/home/mayukuse24/sympy/sympy/stats/" (22128 2515 352943 478000) "drv_types.py" "frv.py" "drv.py" "tests/" "../" "frv_types.py" "rv_interface.py" "crv.py" "__init__.py" "rv.py" "./" "crv_types.py")
+
+ ("/home/mayukuse24/sympy/doc/" (22128 2515 229610 150000) "src/" "cheatsheet/" "../" "generate_logos.py" "ext/" "Makefile" "README.rst" "apidoc.conf" "man/" "api/" "./")
+
+ ("/home/mayukuse24/sympy/sympy/printing/" (22128 2515 339610 145000) "lambdarepr.py" "ccode.py" "dot.py" "preview.py" "tests/" "tableform.py" "latex.py" "printer.py" "gtk.py" "defaults.py" "codeprinter.py" "conventions.py" "fcode.py" "../" "mathml.py" "python.py" "pretty/" "tree.py" "repr.py" "__init__.py" "jscode.py" "str.py" "mathematica.py" "octave.py" "theanocode.py" "./" "precedence.py")
+
+ ("/home/mayukuse24/sympy/sympy/core/" (22128 2515 282943 481000) "containers.py" "singleton.py" "alphabets.py" "add.py" "compatibility.py" "expr.py" "tests/" "cache.py" "basic.py" "assumptions.py" "decorators.py" "exprtools.py" "trace.py" "coreerrors.py" "power.py" "operations.py" "mul.py" "logic.py" "../" "facts.py" "mod.py" "evaluate.py" "core.py" "numbers.py" "sympify.py" "multidimensional.py" "__init__.py" "evalf.py" "rules.py" "benchmarks/" "function.py" "symbol.py" "relational.py" "./")
+
+ ("/home/mayukuse24/sympy/sympy/" (22128 2515 362943 478000) "series/" "liealgebras/" "plotting/" "sets/" "physics/" "utilities/" "diffgeom/" "ntheory/" "core/" "concrete/" "calculus/" "stats/" "logic/" "integrals/" "assumptions/" "combinatorics/" "geometry/" "solvers/" "../" "external/" "matrices/" "functions/" "abc.py" "deprecated/" "crypto/" "polys/" "galgebra/" "release.py" "__init__.py" "interactive/" "unify/" "printing/" "strategies/" "tensor/" "benchmarks/" "parsing/" "simplify/" "categories/" "conftest.py" "vector/" "./")
+
+ ("/home/mayukuse24/sympy/" (22128 3020 946254 971000) ".git/" "data/" ".mailmap" "bin/" "sympy.egg-info/" "setup.py" "dist/" "../" "sympy/" ".gitattributes" "setupegg.py" "LICENSE" "MANIFEST.in" ".travis.yml" "README.rst" "AUTHORS" "build/" "doc/" "examples/" ".gitignore" "release/" "tox.ini.sample" "./")
+
+ ("/srv/http/core/includes/page/" (22122 58740 289488 175000) "WikiFilePage.php" "ImagePage.php" "CategoryPage.php" "WikiCategoryPage.php" "Article.php" "../" "./" "WikiPage.php")
+
+ ("/srv/http/core/resources/src/mediawiki.special/" (22122 58740 366154 838000) "mediawiki.special.pagesWithProp.css" "mediawiki.special.version.css" "mediawiki.special.userlogin.signup.js" "mediawiki.special.undelete.js" "mediawiki.special.userlogin.login.css" "mediawiki.special.css" "mediawiki.special.edittags.js" "mediawiki.special.userlogin.signup.css" "mediawiki.special.changeslist.css" "templates/" "mediawiki.special.changeemail.js" "mediawiki.special.edittags.css" "mediawiki.special.upload.js" "mediawiki.special.block.css" "mediawiki.special.import.js" "images/" "mediawiki.special.js" "../" "mediawiki.special.block.js" "mediawiki.special.changeemail.css" "./" "mediawiki.special.movePage.js" "mediawiki.special.unwatchedPages.js" "mediawiki.special.movePage.css" "mediawiki.special.javaScriptTest.js" "mediawiki.special.userlogin.common.css" "mediawiki.special.watchlist.js" "mediawiki.special.search.js" "mediawiki.special.changeslist.legend.js" "mediawiki.special.pageLanguage.js" "mediawiki.special.preferences.js" "mediawiki.special.search.css" "mediawiki.special.recentchanges.js" "mediawiki.special.changeslist.enhanced.css" "mediawiki.special.preferences.styles.css" "mediawiki.special.unwatchedPages.css" "mediawiki.special.changeslist.legend.css")
+
+ ("/srv/http/core/resources/src/" (22122 58740 369488 171000) "mediawiki.toolbar/" "moment-local-dmy.js" "dom-level2-skip.js" "polyfill-nodeTypes.js" "mediawiki.skinning/" "mediawiki.ui/" "mediawiki.widgets/" "oojs-ui-local.js" "mediawiki.language/" "../" "mediawiki.legacy/" "jquery/" "mediawiki.action/" "mediawiki.libs/" "./" "mediawiki.less/" "startup.js" "mediawiki.special/" "json-skip.js" "polyfill-object-create.js" "mediawiki.hidpi-skip.js" "es5-skip.js" "mediawiki/" "oojs-ui-local.css" "jquery.tipsy/" "mediawiki.messagePoster/")
+
+ ("/srv/http/core/resources/" (22122 58740 362821 505000) "Resources.php" "../" "./" "ResourcesOOUI.php" "lib/" "src/" "assets/")
+
+ ("/srv/http/core/includes/json/" (22122 58740 286154 841000) "../" "./" "FormatJson.php")
+
+ ("/srv/http/core/includes/specials/" (22122 58740 292821 508000) "SpecialEditWatchlist.php" "SpecialListusers.php" "SpecialBlankpage.php" "SpecialChangePassword.php" "SpecialPagesWithProp.php" "SpecialListgrouprights.php" "SpecialExport.php" "SpecialWatchlist.php" "SpecialBooksources.php" "SpecialUserlogout.php" "SpecialUnwatchedpages.php" "SpecialLongpages.php" "SpecialNewpages.php" "SpecialPermanentLink.php" "SpecialUnblock.php" "SpecialWantedfiles.php" "SpecialAllPages.php" "SpecialMyRedirectPages.php" "SpecialEmailuser.php" "SpecialLonelypages.php" "SpecialPreferences.php" "SpecialMyLanguage.php" "SpecialWantedcategories.php" "SpecialUserrights.php" "SpecialListredirects.php" "SpecialEditTags.php" "SpecialCachedPage.php" "SpecialMostlinkedcategories.php" "SpecialAncientpages.php" "SpecialActiveusers.php" "SpecialShortpages.php" "SpecialDoubleRedirects.php" "SpecialPageLanguage.php" "SpecialRecentchangeslinked.php" "SpecialFilepath.php" "SpecialMostcategories.php" "SpecialRecentchanges.php" "SpecialUserlogin.php" "SpecialDiff.php" "SpecialContributions.php" "SpecialApiHelp.php" "SpecialUncategorizedcategories.php" "SpecialMediaStatistics.php" "SpecialPrefixindex.php" "SpecialVersion.php" "SpecialWhatlinkshere.php" "SpecialMostimages.php" "../" "SpecialLog.php" "SpecialPasswordReset.php" "SpecialUncategorizedimages.php" "SpecialFewestrevisions.php" "SpecialExpandTemplates.php" "SpecialRevisiondelete.php" "SpecialJavaScriptTest.php" "SpecialRandompage.php" "SpecialUnlockdb.php" "./" "SpecialUncategorizedtemplates.php" "SpecialBrokenRedirects.php" "SpecialWantedpages.php" "SpecialUndelete.php" "SpecialRunJobs.php" "SpecialDeletedContributions.php" "SpecialBlock.php" "SpecialRandomredirect.php" "SpecialUncategorizedpages.php" "SpecialMostlinked.php" "SpecialResetTokens.php" "SpecialCreateAccount.php" "SpecialDeadendpages.php" "SpecialProtectedtitles.php" "SpecialUnusedimages.php" "SpecialSpecialpages.php" "SpecialListfiles.php" "SpecialImport.php" "SpecialTrackingCategories.php" "SpecialMostrevisions.php" "SpecialUploadStash.php" "SpecialBlockList.php" "SpecialConfirmemail.php" "SpecialMostlinkedtemplates.php" "SpecialMostinterwikis.php" "SpecialCategories.php" "SpecialWantedtemplates.php" "SpecialUpload.php" "SpecialComparePages.php" "SpecialChangeEmail.php" "SpecialRedirect.php" "SpecialRandomInCategory.php" "SpecialUnusedcategories.php" "SpecialFileDuplicateSearch.php" "SpecialAllMessages.php" "SpecialMIMEsearch.php" "SpecialTags.php" "SpecialMovepage.php" "SpecialListDuplicatedFiles.php" "SpecialLockdb.php" "SpecialMergeHistory.php" "SpecialProtectedpages.php" "SpecialChangeContentModel.php" "SpecialUnusedtemplates.php" "SpecialWithoutinterwiki.php" "SpecialSearch.php" "SpecialStatistics.php" "SpecialNewimages.php" "SpecialLinkSearch.php")
+
+ ("/srv/http/core/includes/specialpage/" (22122 58740 289488 175000) "ImageQueryPage.php" "FormSpecialPage.php" "SpecialPage.php" "UnlistedSpecialPage.php" "PageQueryPage.php" "ChangesListSpecialPage.php" "../" "./" "RedirectSpecialPage.php" "QueryPage.php" "SpecialPageFactory.php" "IncludableSpecialPage.php" "WantedQueryPage.php")
+
+ ("/srv/http/core/includes/media/" (22122 58740 289488 175000) "GIF.php" "SVG.php" "Exif.php" "PNGMetadataExtractor.php" "MediaTransformInvalidParametersException.php" "Bitmap_ClientOnly.php" "TransformationalImageHandler.php" "MediaTransformOutput.php" "Jpeg.php" "ImageHandler.php" "Tiff.php" "ExifBitmap.php" "DjVuImage.php" "BMP.php" "tinyrgb.icc" "WebP.php" "JpegMetadataExtractor.php" "XCF.php" "GIFMetadataExtractor.php" "../" "XMP.php" "Bitmap.php" "IPTC.php" "./" "PNG.php" "SVGMetadataExtractor.php" "BitmapMetadataHandler.php" "DjVu.php" "XMPInfo.php" "XMPValidate.php" "FormatMetadata.php" "MediaHandler.php")
+
+ ("/srv/http/core/includes/user/" (22122 58740 292821 508000) "UserArray.php" "LocalIdLookup.php" "../" "./" "CentralIdLookup.php" "UserArrayFromResult.php" "User.php" "UserRightsProxy.php")
+
+ ("/srv/http/core/mw-config/" (22122 58740 336154 840000) "config-cc.css" "index.php" "config.js" "images/" "../" "./" "overrides.php" "config.css")
+
+ ("/srv/" (22028 13666 0 0) "../" "./" "ftp/" "http/")
+
+ ("/srv/http/web-dev-php/practice/" (22121 55065 499781 253000) "event-form.php~" "event-form.php" "directoryread.php~" "visitor_ip.php" "upload/" "writingfile.php" "server.php~" "visitor_ip.php~" "readingfile.php~" "directoryread.php" "getpost.php" "writingfile.php~" "session.php" "../" "iofile.txt~" "./" "#_asudo_broot@vinay-PC_b_avar_awww_ahtml_apractice_awritingfile.php#" "timefuncs.php" "readingfile.php" "start.php" "test.php" "string.php" "iofile.txt" "uploadfiles.php" "tempdir/" "server.php" "uploadfiles.php~")
+
+ ("/srv/http/" (22122 58749 259487 788000) "pageone.html" "web-dev-php/" "../" "./" "info.php" "core/")
+
+ ("/srv/http/core/" (22122 61387 909373 804000) "maintenance/" "load.php" "Gemfile" "thumb_handler.php" ".travis.yml" "HISTORY" "index.php" "tests/" "api.php" "skins/" "profileinfo.php" ".gitreview" "img_auth.php" "extensions/" "UPGRADE" "serialized/" "images/" "../" "Rakefile" "autoload.php" "resources/" "jsduck.json" "wiki.phtml" "opensearch_desc.php" ".jscsrc" "./" "composer.json" "cache/" ".git/" "docs/" "CREDITS" ".mailmap" "README.mediawiki" ".jshintignore" "Gemfile.lock" "COPYING" "StartProfiler.sample" "README" ".jshintrc" "vendor/" "phpcs.xml" "languages/" "thumb.php" "package.json" "RELEASE-NOTES-1.27" "includes/" ".rubocop.yml" ".gitattributes" ".gitignore" "mw-config/" "INSTALL" "Gruntfile.js" "FAQ" "LocalSettings.php")
+
+ ("/srv/http/core/includes/" (22122 58740 292821 508000) "LinkFilter.php" "site/" "rcfeed/" "limit.sh" "htmlform/" "widget/" "context/" "Preferences.php" "registration/" "Block.php" "deferred/" "MimeMagic.php" "EditPage.php" "changes/" "OutputHandler.php" "AuthPlugin.php" "filebackend/" "FormOptions.php" "exception/" "actions/" "HistoryBlob.php" "installer/" "revisiondelete/" "WebStart.php" "Hooks.php" "templates/" "upload/" "db/" "diff/" "PHPVersionError.php" "DeprecatedGlobal.php" "password/" "skins/" "Licenses.php" "WebRequest.php" "utils/" "objectcache/" "WikiMap.php" "SiteConfiguration.php" "MovePage.php" "filerepo/" "mime.types" "HtmlFormatter.php" "GitInfo.php" "composer/" "CategoryViewer.php" "logging/" "RevisionList.php" "PHPVersionCheck.php" "title/" "dao/" "Status.php" "SiteStats.php" "Linker.php" "json/" "MediaWikiVersionFetcher.php" "../" "jobqueue/" "Collation.php" "MagicWord.php" "MediaWiki.php" "changetags/" "TemplateParser.php" "ForkController.php" "StubObject.php" "Title.php" "Fallback.php" "Feed.php" "XmlSelect.php" "./" "WebRequestUpload.php" "OutputPage.php" "WebResponse.php" "FileDeleteForm.php" "AutoLoader.php" "Import.php" "Xml.php" "cache/" "resourceloader/" "specialpage/" "gallery/" "Category.php" "pager/" "parser/" "Export.php" "AjaxDispatcher.php" "MWTimestamp.php" "search/" "ZhConversion.php" "Revision.php" "Defines.php" "ProtectionForm.php" "HttpFunctions.php" "TitleArrayFromResult.php" "content/" "clientpool/" "WatchedItem.php" "mime.info" "Sanitizer.php" "config/" "Setup.php" "api/" "Html.php" "compat/" "DefaultSettings.php" ".htaccess" "Message.php" "TitleArray.php" "AjaxResponse.php" "profiler/" "NoLocalSettings.php" "CategoryFinder.php" "PathRouter.php" "page/" "Autopromote.php" "specials/" "interwiki/" "libs/" "debug/" "GlobalFunctions.php" "FeedUtils.php" "poolcounter/" "externalstore/" "mail/" "tidy/" "media/" "PrefixSearch.php" "MWNamespace.php" "user/" "StreamFile.php")
+
+ ("/home/mayukuse24/helm/" (22124 34421 206792 400000) "helm-elisp-package.elc" "helm-files.el" "helm-dabbrev.elc" "helm-adaptive.el" "helm-sys.el" "helm-font.el" ".git/" "helm-id-utils.el" "helm-config.el" "helm-regexp.el" "helm-lib.elc" "helm-tags.elc" "helm-org.el" "helm-elscreen.elc" "helm-mode.el" "helm-easymenu.el" "helm-imenu.elc" "README.md" "helm-info.elc" "helm-multi-match.elc" "helm-apt.elc" "helm-buffers.elc" "helm-buffers.el" "helm-external.el" "helm.elc" "helm-eshell.el" "helm-net.elc" "helm-plugin.elc" "helm-plugin.el" "helm-man.elc" "helm-color.elc" "../" "helm-help.el" "helm-elisp.el" "helm-grep.el" "helm-elscreen.el" "helm-config.elc" "helm-elisp-package.el" "helm-pkg.el" "helm-multi-match.el" "helm-org.elc" "helm-semantic.el" "helm-id-utils.elc" "helm-dabbrev.el" "helm-regexp.elc" "helm-utils.el" "helm-elisp.elc" "helm-locate.el" "helm-external.elc" "helm-source.el" "Makefile" "helm-net.el" "helm-core-pkg.el" "helm-files.elc" "helm.el" "helm-color.el" "helm-man.el" "helm-lib.el" "helm-apt.el" "helm-ring.elc" "helm-types.elc" "helm-help.elc" "helm-misc.el" "COPYING" "emacs-helm.sh" "helm-eshell.elc" "helm-adaptive.elc" "helm-misc.elc" "helm-sys.elc" "helm-eval.elc" "helm-info.el" "helm-font.elc" "helm-tags.el" "helm-bookmark.el" "helm-ring.el" "helm-imenu.el" "helm-grep.elc" "helm-semantic.elc" "helm-types.el" "helm-mode.elc" "helm-easymenu.elc" "doc/" "helm-command.elc" ".gitignore" "helm-autoloads.el" "helm-command.el" "helm-eval.el" "helm-source.elc" "helm-utils.elc" "./" "helm-bookmark.elc" "helm-locate.elc")
+
+ ("/home/mayukuse24/sugar-build/" (22124 14723 903279 898000) "imageviewer/" "chat/" ".git/" "sugar-toolkit/" ".lock" "osbuild" "README.md" "pippy/" "browse/" "sugar-toolkit-gtk3/" "docker/" "sugar-datastore/" "sugar/" "log/" "read/" "jukebox/" "write/" "../" "sugar-runner/" "terminal/" "clock-web/" "sugar-base/" ".lock-host" "sugar-web-test/" "sugar-web/" "sugar-web-template/" "automake/" "turtleart/" ".gitmodules" "sugar-docs/" "gwebsockets/" "home/" "activities/" "build/" "sugar-artwork/" ".gitignore" "gtd-activity/" "./")
+
+ ("/home/mayukuse24/core/" (22122 49956 833200 932000) "UPGRADE" ".git/" "HISTORY" "composer.json" "StartProfiler.sample" "wiki.phtml" "img_auth.php" "index.php" ".jscsrc" "tests/" "autoload.php" "opensearch_desc.php" ".mailmap" "skins/" "Rakefile" "INSTALL" "includes/" "languages/" "README" "docs/" "../" "resources/" ".jshintignore" "jsduck.json" "load.php" "serialized/" ".gitreview" "Gemfile.lock" ".rubocop.yml" ".gitattributes" "thumb_handler.php" "package.json" "FAQ" "images/" ".travis.yml" "Gemfile" "README.mediawiki" "COPYING" "RELEASE-NOTES-1.27" ".jshintrc" "cache/" "CREDITS" "Gruntfile.js" "phpcs.xml" ".gitignore" "profileinfo.php" "api.php" "mw-config/" "maintenance/" "./" "extensions/" "thumb.php")
+
+ ("/home/" (22120 13621 653732 711000) "../" "mayukuse24/" "lost+found/" "./")
+
+ ("/home/mayukuse24/.emacs.d/helm/" (22124 34148 686789 921000) "helm-elisp-package.elc" "helm-files.el" "helm-dabbrev.elc" "helm-adaptive.el" "helm-sys.el" "helm-font.el" ".git/" "helm-id-utils.el" "helm-config.el" "helm-regexp.el" "helm-lib.elc" "helm-tags.elc" "helm-org.el" "helm-elscreen.elc" "helm-mode.el" "helm-easymenu.el" "helm-imenu.elc" "README.md" "helm-info.elc" "helm-multi-match.elc" "helm-apt.elc" "helm-buffers.elc" "helm-buffers.el" "helm-external.el" "helm.elc" "helm-eshell.el" "helm-net.elc" "helm-plugin.elc" "helm-plugin.el" "helm-man.elc" "helm-color.elc" "../" "helm-help.el" "helm-elisp.el" "helm-grep.el" "helm-elscreen.el" "helm-config.elc" "helm-elisp-package.el" "helm-pkg.el" "helm-multi-match.el" "helm-org.elc" "helm-semantic.el" "helm-id-utils.elc" "helm-dabbrev.el" "helm-regexp.elc" "helm-utils.el" "helm-elisp.elc" "helm-locate.el" "helm-external.elc" "helm-source.el" "Makefile" "helm-net.el" "helm-core-pkg.el" "helm-files.elc" "helm.el" "helm-color.el" "helm-man.el" "helm-lib.el" "helm-apt.el" "helm-ring.elc" "helm-types.elc" "helm-help.elc" "helm-misc.el" "COPYING" "emacs-helm.sh" "helm-eshell.elc" "helm-adaptive.elc" "helm-misc.elc" "helm-sys.elc" "helm-eval.elc" "helm-info.el" "helm-font.elc" "helm-tags.el" "helm-bookmark.el" "helm-ring.el" "helm-imenu.el" "helm-grep.elc" "helm-semantic.elc" "helm-types.el" "helm-mode.elc" "helm-easymenu.elc" "doc/" "helm-command.elc" ".gitignore" "helm-autoloads.el" "helm-command.el" "helm-eval.el" "helm-source.elc" "helm-utils.elc" "./" "helm-bookmark.elc" "helm-locate.elc")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
