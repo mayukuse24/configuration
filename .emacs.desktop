@@ -2,62 +2,51 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Thu Feb 25 20:21:47 2016
+;; Created Fri Apr  8 16:51:55 2016
 ;; Desktop file format version 206
 ;; Emacs version 24.5.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (22223 25179 824303 793000) (desktop . "206") "mayukuse24@mayukuse" nil nil ((((font-backend xft x) (font . "-unknown-DejaVu Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Monospace 11") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (foreground-color . "#abb2bf") (background-color . "#282c34") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground) (scroll-bar-background . "grey75") (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen . fullboth) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 13) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#abb2bf") (sticky) (environment) (maximized) (frameset--id . "7C78-20CB-82E1-D307") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (visibility . icon) (height . 41) (width . 148)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 72) (min-pixel-width . 90) (min-pixel-height-ignore . 54) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 18) (min-pixel-width-safe . 18)) leaf (pixel-width . 1366) (pixel-height . 725) (total-width . 151) (total-height . 40) (normal-height . 1.0) (normal-width . 1.0) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 13 2 t nil) (vscroll . 0) (dedicated) (point . 3087) (start . 2523))))])
+(setq desktop-saved-frameset [frameset 1 (22279 37971 356428 810000) (desktop . "206") "mayukuse24@mayukuse" nil nil ((((font-backend xft x) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Monospace 11") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (foreground-color . "#abb2bf") (background-color . "#282c34") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground) (scroll-bar-background . "grey75") (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen . fullboth) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 13) (alpha) (display-type . color) (background-mode . dark) (cursor-color . "#abb2bf") (visibility . icon) (horizontal-scroll-bars . t) (sticky) (environment) (frameset--id . "CA56-97F5-50D3-9896") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (maximized) (height . 41) (width . 148)) ((min-height . 8) (min-width . 10) (min-height-ignore . 6) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 144) (min-pixel-width . 90) (min-pixel-height-ignore . 108) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 36) (min-pixel-width-safe . 18)) vc (pixel-width . 1366) (pixel-height . 725) (total-width . 151) (total-height . 40) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1366) (pixel-height . 365) (total-width . 151) (total-height . 20) (normal-height . 0.5) (normal-width . 1.0) (buffer ".emacs.desktop" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 13 2 t nil) (vscroll . 0) (dedicated) (point . 3932) (start . 3772))) (leaf (last . t) (pixel-width . 1366) (pixel-height . 360) (total-width . 151) (total-height . 20) (normal-height . 0.5) (normal-width . 1.0) (buffer "*magit: .emacs.d" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 13 2 t nil) (vscroll . 0) (dedicated) (point . 16028) (start . 726)))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
-(setq search-ring '("R" "ReceiveFile" "lower" "datetime" "receive" "s" "receiv" "sae" "recv" "send" "recv" "send" "list" "container" ".container" "justify"))
+(setq search-ring '("kill-buffer" "python-mode" "buffer" "magit" "time" "battery" "markdow" "provide" "background" "powermeter" "event" "theta" "0.1" "checkpiececollision" "striker.theta" "cos"))
 (setq regexp-search-ring nil)
 (setq register-alist nil)
-(setq file-name-history '("/home/mayukuse24/.emacs" "/home/mayukuse24/Downloads/AI/UT3/team79.py" "/home/mayukuse24/Downloads/AI/UT3/bot.py" "/home/mayukuse24/Downloads/computer networks/practice/server.py" "/home/mayukuse24/Downloads/computer networks/practice/client.py" "/home/mayukuse24/Downloads/computer networks/practice/server.py" "/home/mayukuse24/Downloads/computer networks/practice/client.py" "/home/mayukuse24/Downloads/computer networks/practice/server.py" "/home/mayukuse24/kcis/kcis/index.css" "/home/mayukuse24/kcis/kcis/index.html" "/home/mayukuse24/kcis/kcis/gallery2.css" "/home/mayukuse24/kcis/kcis/gallery.css" "/home/mayukuse24/kcis/kcis/index.html" "/home/mayukuse24/kcis/kcis/gallery.html" "/home/mayukuse24/kcis/kcis/faculty.html" "/home/mayukuse24/kcis/kcis/index.css" "/home/mayukuse24/kcis/kcis/index.html" "/home/mayukuse24/kcis/kcis/gallery.html" "~/Downloads/computer networks/practice" "/home/mayukuse24/Downloads/computer networks/try.py" "/home/mayukuse24/Downloads/computer networks/try.cpp" "/home/mayukuse24/Downloads/computer networks/asg-01/s.py" "/home/mayukuse24/Downloads/computer networks/asg-01/r.py" "/home/mayukuse24/kcis/kcis/getimg.py" "/home/mayukuse24/kcis/kcis/gallery2.css" "/home/mayukuse24/kcis/kcis/gallery.css" "/home/mayukuse24/kcis/kcis/gallery.html" "/home/mayukuse24/kcis/kcis/index.html" "/home/mayukuse24/kcis/kcis/index.css" "/home/mayukuse24/kcis/kcis/index.html" "/home/mayukuse24/Downloads/AI/UT3/evaluator_code.py" "/home/mayukuse24/Downloads/AI/UT3/bot.py" "/home/mayukuse24/Downloads/AI/UT3/bot.pyc" "/home/mayukuse24/Downloads/AI/UT3/evaluator_code.py" "/home/mayukuse24/Downloads/AI/UT3/bot.py" "/home/mayukuse24/Downloads/AI/UT3/evaluator_code.py" "/home/mayukuse24/.emacs" "/home/mayukuse24/Downloads/AI/UT3/evaluator_code.py" "/home/mayukuse24/Downloads/AI/UT3/main.py" "/home/mayukuse24/learnGL/map3D/keyboard.cpp" "/home/mayukuse24/learnGL/map3D/map1.txt" "/home/mayukuse24/learnGL/map3D/keyboard.cpp" "/home/mayukuse24/learnGL/map3D/player.cpp" "/home/mayukuse24/learnGL/map3D/map4.txt" "/home/mayukuse24/learnGL/map3D/map1.txt" "/home/mayukuse24/learnGL/map3D/map3.txt" "/home/mayukuse24/learnGL/map3D/initial.cpp" "/home/mayukuse24/learnGL/map3D/Sample_GL3.frag" "/home/mayukuse24/learnGL/map3D/fontrender.vert" "/home/mayukuse24/learnGL/map3D/TextureRender.vert" "/home/mayukuse24/learnGL/map3D/Sample_GL3.vert" "/home/mayukuse24/learnGL/map3D/map2.txt" "/home/mayukuse24/learnGL/map3D/map1.txt" "/home/mayukuse24/learnGL/map3D/game.h" "/home/mayukuse24/learnGL/map3D/player.h" "/home/mayukuse24/learnGL/map3D/player.cpp" "/home/mayukuse24/learnGL/map3D/keyboard.cpp" "/home/mayukuse24/learnGL/map3D/player.h" "/home/mayukuse24/learnGL/map3D/main.cpp" "/home/mayukuse24/learnGL/map3D/sphere.cpp" "/home/mayukuse24/learnGL/map3D/main.cpp" "/home/mayukuse24/learnGL/map3D/Sample_GL3.frag" "/home/mayukuse24/learnGL/map3D/Sample_GL3.vert" "/home/mayukuse24/learnGL/map3D/main.cpp" "/home/mayukuse24/learnGL/map3D/game.h" "/home/mayukuse24/learnGL/map3D/game.cpp" "/home/mayukuse24/learnGL/map3D/world.cpp" "/home/mayukuse24/learnGL/map3D/cube.cpp" "/home/mayukuse24/learnGL/map3D/cube.h" "/home/mayukuse24/learnGL/map3D/initial.h" "/home/mayukuse24/learnGL/map3D/sphere.cpp" "/home/mayukuse24/learnGL/map3D/initial.cpp" "/home/mayukuse24/learnGL/map3D/ballcollision.cpp" "/home/mayukuse24/learnGL/map3D/temp.cpp" "/home/mayukuse24/learnGL/map3D/map2.txt" "/home/mayukuse24/learnGL/map3D/map1.txt" "/home/mayukuse24/learnGL/map3D/cube.cpp" "/home/mayukuse24/learnGL/map3D/game.cpp" "/home/mayukuse24/learnGL/map3D/player.cpp" "/home/mayukuse24/learnGL/map3D/main.cpp" "/home/mayukuse24/learnGL/map3D/cube.h" "/home/mayukuse24/learnGL/map3D/game.cpp" "/home/mayukuse24/learnGL/map3D/cube.cpp" "/home/mayukuse24/learnGL/map3D/game.h" "/home/mayukuse24/learnGL/map3D/game.cpp" "/home/mayukuse24/todo.org" "/home/mayukuse24/learnGL/map3D/keyboard.cpp" "/home/mayukuse24/learnGL/map3D/cube.cpp" "/home/mayukuse24/todo.org" "/home/mayukuse24/learnGL/map3D/initial.cpp" "/home/mayukuse24/learnGL/prac/cannonball.cpp" "/home/mayukuse24/learnGL/map3D/keyboard.cpp" "/home/mayukuse24/learnGL/map3D/player.cpp" "/home/mayukuse24/learnGL/map3D/object.cpp" "/home/mayukuse24/learnGL/map3D/keyboard.cpp" "/home/mayukuse24/learnGL/map3D/sphere.cpp" "/home/mayukuse24/learnGL/map3D/keyboard.h" "/home/mayukuse24/learnGL/map3D/main.cpp" "/home/mayukuse24/learnGL/map3D/keyboard.h" "/home/mayukuse24/learnGL/map3D/game.h"))
+(setq file-name-history '("/home/mayukuse24/.emacs.d/.emacs.desktop" "/home/mayukuse24/Downloads/computer networks/practice/.git/COMMIT_EDITMSG" "/home/mayukuse24/Downloads/computer networks/practice/client.py" "/home/mayukuse24/Downloads/computer networks/practice/Muse_Butterflies.mp3" "/home/mayukuse24/Downloads/computer networks/FileSharingProtocol/server.py" "~/Downloads/computer networks/FileSharingProtocol/" "/home/mayukuse24/Downloads/computer networks/FileSharingProtocol/client.py" "/home/mayukuse24/boss.md" "/home/mayukuse24/s.md" "/home/mayukuse24/Downloads/computer networks/mini-proj/server.py" "/home/mayukuse24/.emacs" "/home/mayukuse24/todo.org" "/home/mayukuse24/Downloads/computer networks/mini-proj/server.py" "/home/mayukuse24/learnGL/prac/cannonball.cpp" "/sudo::/srv/http/three.js/examples/try.js" "/srv/http/three.js/examples/try.js" "/sudo::/srv/http/three.js/examples/try.js" "/home/mayukuse24/.emacs" "/sudo::/srv/http/three.js/examples/try.js" "/srv/http/three.js/examples/try.js" "/srv/http/three.js/examples/try.html" "/home/mayukuse24/Downloads/computer networks/mini-proj/server.py" "/sudo:root@mayukuse:/srv/http/three.js/examples/try.js" "/sudo::/srv/http/three.js/examples/try.html"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/mayukuse24/.emacs.d/.emacs.desktop"
+  ".emacs.desktop"
+  'emacs-lisp-mode
+  '(flycheck-mode company-mode auto-revert-mode)
+  3932
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . emacs-mule-unix)))
+
 (desktop-create-buffer 206
   "/home/mayukuse24/.emacs"
   ".emacs"
   'emacs-lisp-mode
   '(flycheck-mode company-mode)
-  3087
-  '(3463 nil)
+  35
+  '(1 nil)
   nil
   nil
   '((buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
-  "/home/mayukuse24/Downloads/AI/UT3/team79.py"
-  "team79.py"
+  "/home/mayukuse24/Downloads/computer networks/practice/client.py"
+  "client.py"
   'python-mode
-  '(flycheck-mode company-mode)
-  1764
-  '(nil nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/mayukuse24/Downloads/AI/UT3/bot.py"
-  "bot.py"
-  'python-mode
-  '(flycheck-mode company-mode)
+  '(flycheck-mode company-mode auto-revert-mode)
   1
-  '(nil nil)
+  '(249 nil)
   nil
   nil
   '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/mayukuse24/todo.org"
-  "todo.org"
-  'org-mode
-  '(flycheck-mode company-mode)
-  729
-  '(38 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
 
