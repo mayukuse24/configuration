@@ -2,6 +2,18 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/mayukuse/college-files/5th sem/" . "Game Theory/")
+ ("/home/mayukuse/college-files/5th sem/DS/" . "Assignment-1/")
+ ("/sudo:root@localhost:/mnt/vinayhd2/ssad_2015_team18/Mobrosrc/app/src/main/java/com/example/mobile/" . "mobro01/")
+ ("/sudo:root@localhost:/mnt/vinayhd2/ssad_2015_team18/Mobrosrc/app/src/main/java/com/example/" . "mobile/")
+ ("/sudo:root@localhost:/mnt/vinayhd2/ssad_2015_team18/Mobrosrc/app/src/main/java/com/" . "example/")
+ ("/sudo:root@localhost:/mnt/vinayhd2/ssad_2015_team18/Mobrosrc/app/src/main/java/" . "com/")
+ ("/sudo:root@localhost:/mnt/vinayhd2/ssad_2015_team18/Mobrosrc/app/src/main/" . "java/")
+ ("/sudo:root@localhost:/mnt/" . "vinayhd2/")
+ ("/sudo:root@localhost:/" . "mnt/")
+ ("/home/mayukuse/college-files/" . "5th sem/")
+ ("/home/mayukuse/" . "game-theory-DSE/")
+ ("/home/mayukuse/.config/" . "i3status/")
  ("/sudo::/srv/http/three.js/" . "examples/")
  ("/sudo::/srv/http/" . "three.js/")
  ("/sudo::/srv/" . "http/")
@@ -36,6 +48,18 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/mayukuse/game-theory-DSE/"
+ "/home/mayukuse/"
+ "/home/mayukuse/college-files/5th sem/DS/Assignment-1/"
+ "/sudo:root@localhost:/mnt/vinayhd2/ssad_2015_team18/Mobrosrc/app/src/main/res/layout/"
+ "/sudo:root@localhost:/mnt/vinayhd2/ssad_2015_team18/Mobrosrc/app/src/main/java/com/example/mobile/mobro01/"
+ "/sudo:root@localhost:/mnt/vinayhd2/"
+ "/sudo:root@localhost:"
+ "/"
+ "/home/mayukuse/college-files/Information Security/programs/"
+ "/home/mayukuse/.config/i3status/"
+ "/home/mayukuse/.config/i3/"
+ "/home/mayukuse/ML-python/"
  "/home/mayukuse24/Downloads/computer networks/practice/"
  "/home/mayukuse24/Downloads/computer networks/FileSharingProtocol/"
  "/home/mayukuse24/"
@@ -74,35 +98,60 @@
  "/home/mayukuse24/sympy/sympy/solvers/"
  "/home/mayukuse24/sympy/sympy/integrals/"
  "/home/mayukuse24/sympy/sympy/core/"
- "/home/mayukuse24/web-scraping/"
- "/home/mayukuse24/sympy/sympy/stats/"
- "/home/mayukuse24/sympy/doc/cheatsheet/"
- "/home/mayukuse24/sympy/sympy/printing/"
- "/srv/http/core/includes/specials/"
- "/srv/http/core/resources/src/mediawiki.special/"
- "/srv/http/core/includes/json/"
- "/srv/http/core/includes/user/"
- "/srv/http/core/includes/"
- "/srv/http/web-dev-php/practice/"
- "/home/mayukuse24/helm/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "client.py"
- "Muse_Butterflies.mp3"
- "server.py"
- "boss.md"
- "s.md"
+ "main.py"
  ".emacs"
- "helloworld.html"
- "web_server.py"
- "todo.org"
- "cannonball.cpp"
+ "README.md"
+ "studentdeserialize.cpp"
+ "run.sh"
+ "studentserialize.cpp"
+ "jsonserialize.cpp"
+ "jsondeserialize.cpp"
+ "result.json"
+ "out"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/mayukuse/game-theory-DSE/" (22474 63430 7592 903000) "player.py" "prisoners-dilemma.nfg" "./" "dominantsample.nfg~" "out1" ".git/" "../" "2psample.nfg" "game.py" "main.py" "GameTheory-DSE Assignment solution.pdf" "3-coins.nfg" "temp.nfg" "temp.nfg~" "dominantsample.nfg" "__pycache__/" "README.md" "sample.nfg" "__init__.py")
+
+ ("/home/mayukuse/college-files/5th sem/Game Theory/" (22472 39526 104125 277000) "./" "201401139.tar.gz" "../" "GameTheory-DSE Assignment solution.pdf" "game-theory-games.pdf" "cs498_Assignment1.pdf" "game-theory-dse.pdf" "game-theory-matrix.pdf" "game theory and mechanism design - Y.Narahari.pdf" "game-theory-lect1.pdf")
+
+ ("/home/mayukuse/college-files/5th sem/" (22472 42644 940820 312000) "./" "Consol_Timetable_M16_V4.pdf" "Game Theory/" "../" "Monsoon2016.pdf" "DS/" "SMAI/" "ABA/" "Psychology/" "CAA/")
+
+ ("/home/mayukuse/college-files/" (22458 64890 153683 913000) "./" ".git/" "../" "Project List .pdf" "ITM Overseas Profile.doc" "README.md" "SMAI  2016 Mosoon Projects List - Final.csv" "Information Security/" "5th sem/")
+
+ ("/home/mayukuse/" (22476 27311 867744 277000) ".gitconfig" ".xinitrc" ".zshrc" "src~/" ".zsh-update" ".config/" "mozilla.pdf" "./" ".python_history" ".lesshst" "DC Downloads/" "Desktop/" ".dc++/" ".asoundrc.asoundconf" ".zcompdump" ".ssh/" ".ICEauthority" "../" ".dtella/" ".zshrc~" ".icons/" ".gtkrc-2.0" ".purple/" ".bashrc" "Music/" "protobuf/" ".Xauthority" "history" "game-theory-DSE/" "college-files/" "AUR/" ".npm/" ".histfile" ".bash_logout" "i3-style/" ".gnupg/" "wallpapers/" ".conf/" ".oh-my-zsh/" ".local/" ".kde4/" ".zcompdump-mayukuse24-5.2" "dwhelper/" ".esd_auth" ".emacs" ".cache/" ".emacs~" ".thumbnails/" ".zsh_history" "backup.tar" "ML-python/" ".fehbg" ".emacs.d/" ".bash_profile" "Downloads/" "#.emacs#" ".bash_history" ".mozilla/" "MEGA/" "dtella/" ".viminfo" ".zshrc.bak" ".rtorrent.rc")
+
+ ("/home/mayukuse/.config/" (22476 24055 957714 661000) "dconf/" "autostart/" "./" "gtk-2.0/" "gconf/" "i3status/" "../" "pulse/" "Trolltech.conf" "gtk-3.0/" "mirage/" "hexchat/" "mimeapps.list" "xfe/" "libreoffice/" "nitrogen/" "gnome-session/" "vlc/" "Thunar/" "xfce4/" "i3/" "xmms2/" "terminator/" "htop/" "google-googletalkplugin/" "matplotlib/")
+
+ ("/home/mayukuse/.config/i3/" (22476 27180 714409 751000) "./" "../" "config" "config~")
+
+ ("/home/mayukuse/college-files/5th sem/DS/Assignment-1/" (22463 1127 73699 671000) "studentserialize.cpp" "#jsondeserialize.cpp#" "Result.pb.cc" "./" "jsondser" "jsonserialize.cpp" "input_sample" "jsonserialize2.cpp~" "Assignment 1.pdf" "#studentserialize.cpp#" "run.sh" "result_protobuf" "../" "studentdeserialize.cpp" "test_sample" "output_json.txt" "jsonserialize.cpp~" "gbufser" "Result.pb.h" "studentserialize.cpp~" "run.sh~" "jsondeserialize.cpp~" "jsondeserialize.cpp" "gbufdesr" "jsonser" "Result.proto~" "a.out" "studentdeserialize.cpp~" "studentserialize.o" "output_protobuf.txt" "result.json" "Result.proto")
+
+ ("/home/mayukuse/college-files/5th sem/DS/" (22457 35213 899608 242000) "./" "goo-pbuf/" "Assignment-1/" "../")
+
+ ("/home/mayukuse/college-files/Information Security/programs/" (22453 64874 403868 477000) "test.py~" "playfair.py" "./" "test.py" "ciphertext_decrypt.py" "../" "AZBY.py~" "hillcipher.py~" "AZBY.py" "playfair.py~" "hillcipher.py")
+
+ ("/home/mayukuse/college-files/Information Security/" (22450 715 249186 399000) "./" "../" "programs/" "1_book-introduction_to_modern_cryptography.pdf" "Computer Security- Principles and Practice, 3rd Edition.pdf")
+
+ ("/home/mayukuse/college-files/5th sem/DS/goo-pbuf/" (22449 64899 942507 441000) "test.txt" "./" "../" "addressbook.pb.h~" "addressbook.pb.cc" "addressbook.pb.h")
+
+ ("/home/mayukuse/.config/i3status/" (22439 50436 154552 143000) "./" "../" "#config#" "config" "config~")
+
+ ("/home/mayukuse/ML-python/" (22393 20217 34076 894000) "plot.py~" "googleforecast.png" "svmplot2.png" "./" "svm.py" "../" "linearreg_scratch.py" "linearreg_scratch.py~" "linearregression.pickle" "breast-cancer-wisconsin.data" "linear_reg.py" "knearest.py~" "test.png" "svm.py~" "plot.py" "testdata.png" "svm_scratch.py~" "k_nearest.png" "svmplot.png" "linear_reg.py~" "knearest.py" "svm_scratch.py")
+
+ ("/home/" (22314 37697 61491 765000) "./" "../" "mayukuse/" "lost+found/")
+
+ ("/home/mayukuse/.emacs.d/" (22385 43719 987853 291000) "irony/" "ac-comphist.dat" "./" "ido.last" "tramp" ".git/" "../" "auto-save-list/" "elpa/" ".emacs.desktop" "helm/" "emacs-async/" ".emacs" "session.22fa3c3fb-9e97-4703-bd4c-0feeedba02f7" ".emacs.desktop.lock" "ido.last~")
+
+ ("/home/mayukuse/i3-style/" (22318 32089 567696 852000) "doc/" "./" "src/" ".git/" "test/" "../" "Cakefile" "package.json" "README.md" "LICENSE" ".gitignore" "themes/" "lib/")
+
+ ("/srv/http/" (22028 13666 0 0) "../" "./")
+
  ("/home/mayukuse24/Downloads/computer networks/FileSharingProtocol/" (22279 29429 331526 445000) "file1" "client.py" "client.py~" "afterlife.mp3" "testfile" "server.py~" "../" "testout" "Muse_Butterflies.mp3" "Must_Butterflies.mp3" "Spring-2016.pdf" "file3" "sharing/" "file2" "server.py" "./")
 
  ("/home/mayukuse24/Downloads/computer networks/mini-proj/" (22279 25415 45033 185000) "helloworld.html~" "helloworld.html" ".emacs.desktop" "201401139.zip" "server.py~" "../" "server.py" "./")
@@ -128,8 +177,6 @@
  ("/home/mayukuse24/Downloads/computer networks/practice/" (22269 16602 24788 553000) "file1" "client.py" ".git/" "client.py~" "afterlife.mp3" "testfile" "server.py~" "../" "testout" "Muse_Butterflies.mp3" "Must_Butterflies.mp3" "Spring-2016.pdf" "file3" "sharing/" "file2" "server.py" "./")
 
  ("/home/mayukuse24/Downloads/FileSharingProtocol/" (22269 16530 574786 423000) "file1" "client.py" "afterlife.mp3" "testfile" "../" "testout" "Muse_Butterflies.mp3" "Spring-2016.pdf" "file3" "sharing/" "file2" "server.py" "./")
-
- ("/srv/http/" (22265 18667 151285 720000) "three.js/" "pageone.html" "web-dev-php/" "../" "./" "info.php" "core/")
 
  ("/home/mayukuse24/Downloads/AI/UT3/" (22257 8604 128590 459000) "team79old.py" ".git/" "team80.pyc" "team56.py" "team3.pyc" "bot.py~" "timeout.pyc" "timeout.py~" "team79.py" "bot.py" "team444.pyc" "timeout.py" "team19.pyc" "../" "team79old.py~" "evaluator_code.py" "team76.pyc" "output3.txt" "team55.pyc" "team79.py~" "team79.pyc" "output2.txt" "output.txt" "team4.pyc" "team79old.pyc" "team56.pyc" "team80.py" "evaluator_code.py~" "output4.txt" "out.txt" "./")
 
@@ -248,18 +295,6 @@
  ("/srv/http/web-dev-php/practice/" (22121 55065 499781 253000) "event-form.php~" "event-form.php" "directoryread.php~" "visitor_ip.php" "upload/" "writingfile.php" "server.php~" "visitor_ip.php~" "readingfile.php~" "directoryread.php" "getpost.php" "writingfile.php~" "session.php" "../" "iofile.txt~" "./" "#_asudo_broot@vinay-PC_b_avar_awww_ahtml_apractice_awritingfile.php#" "timefuncs.php" "readingfile.php" "start.php" "test.php" "string.php" "iofile.txt" "uploadfiles.php" "tempdir/" "server.php" "uploadfiles.php~")
 
  ("/srv/http/core/" (22122 61387 909373 804000) "maintenance/" "load.php" "Gemfile" "thumb_handler.php" ".travis.yml" "HISTORY" "index.php" "tests/" "api.php" "skins/" "profileinfo.php" ".gitreview" "img_auth.php" "extensions/" "UPGRADE" "serialized/" "images/" "../" "Rakefile" "autoload.php" "resources/" "jsduck.json" "wiki.phtml" "opensearch_desc.php" ".jscsrc" "./" "composer.json" "cache/" ".git/" "docs/" "CREDITS" ".mailmap" "README.mediawiki" ".jshintignore" "Gemfile.lock" "COPYING" "StartProfiler.sample" "README" ".jshintrc" "vendor/" "phpcs.xml" "languages/" "thumb.php" "package.json" "RELEASE-NOTES-1.27" "includes/" ".rubocop.yml" ".gitattributes" ".gitignore" "mw-config/" "INSTALL" "Gruntfile.js" "FAQ" "LocalSettings.php")
-
- ("/srv/http/core/includes/" (22122 58740 292821 508000) "LinkFilter.php" "site/" "rcfeed/" "limit.sh" "htmlform/" "widget/" "context/" "Preferences.php" "registration/" "Block.php" "deferred/" "MimeMagic.php" "EditPage.php" "changes/" "OutputHandler.php" "AuthPlugin.php" "filebackend/" "FormOptions.php" "exception/" "actions/" "HistoryBlob.php" "installer/" "revisiondelete/" "WebStart.php" "Hooks.php" "templates/" "upload/" "db/" "diff/" "PHPVersionError.php" "DeprecatedGlobal.php" "password/" "skins/" "Licenses.php" "WebRequest.php" "utils/" "objectcache/" "WikiMap.php" "SiteConfiguration.php" "MovePage.php" "filerepo/" "mime.types" "HtmlFormatter.php" "GitInfo.php" "composer/" "CategoryViewer.php" "logging/" "RevisionList.php" "PHPVersionCheck.php" "title/" "dao/" "Status.php" "SiteStats.php" "Linker.php" "json/" "MediaWikiVersionFetcher.php" "../" "jobqueue/" "Collation.php" "MagicWord.php" "MediaWiki.php" "changetags/" "TemplateParser.php" "ForkController.php" "StubObject.php" "Title.php" "Fallback.php" "Feed.php" "XmlSelect.php" "./" "WebRequestUpload.php" "OutputPage.php" "WebResponse.php" "FileDeleteForm.php" "AutoLoader.php" "Import.php" "Xml.php" "cache/" "resourceloader/" "specialpage/" "gallery/" "Category.php" "pager/" "parser/" "Export.php" "AjaxDispatcher.php" "MWTimestamp.php" "search/" "ZhConversion.php" "Revision.php" "Defines.php" "ProtectionForm.php" "HttpFunctions.php" "TitleArrayFromResult.php" "content/" "clientpool/" "WatchedItem.php" "mime.info" "Sanitizer.php" "config/" "Setup.php" "api/" "Html.php" "compat/" "DefaultSettings.php" ".htaccess" "Message.php" "TitleArray.php" "AjaxResponse.php" "profiler/" "NoLocalSettings.php" "CategoryFinder.php" "PathRouter.php" "page/" "Autopromote.php" "specials/" "interwiki/" "libs/" "debug/" "GlobalFunctions.php" "FeedUtils.php" "poolcounter/" "externalstore/" "mail/" "tidy/" "media/" "PrefixSearch.php" "MWNamespace.php" "user/" "StreamFile.php")
-
- ("/home/mayukuse24/helm/" (22124 34421 206792 400000) "helm-elisp-package.elc" "helm-files.el" "helm-dabbrev.elc" "helm-adaptive.el" "helm-sys.el" "helm-font.el" ".git/" "helm-id-utils.el" "helm-config.el" "helm-regexp.el" "helm-lib.elc" "helm-tags.elc" "helm-org.el" "helm-elscreen.elc" "helm-mode.el" "helm-easymenu.el" "helm-imenu.elc" "README.md" "helm-info.elc" "helm-multi-match.elc" "helm-apt.elc" "helm-buffers.elc" "helm-buffers.el" "helm-external.el" "helm.elc" "helm-eshell.el" "helm-net.elc" "helm-plugin.elc" "helm-plugin.el" "helm-man.elc" "helm-color.elc" "../" "helm-help.el" "helm-elisp.el" "helm-grep.el" "helm-elscreen.el" "helm-config.elc" "helm-elisp-package.el" "helm-pkg.el" "helm-multi-match.el" "helm-org.elc" "helm-semantic.el" "helm-id-utils.elc" "helm-dabbrev.el" "helm-regexp.elc" "helm-utils.el" "helm-elisp.elc" "helm-locate.el" "helm-external.elc" "helm-source.el" "Makefile" "helm-net.el" "helm-core-pkg.el" "helm-files.elc" "helm.el" "helm-color.el" "helm-man.el" "helm-lib.el" "helm-apt.el" "helm-ring.elc" "helm-types.elc" "helm-help.elc" "helm-misc.el" "COPYING" "emacs-helm.sh" "helm-eshell.elc" "helm-adaptive.elc" "helm-misc.elc" "helm-sys.elc" "helm-eval.elc" "helm-info.el" "helm-font.elc" "helm-tags.el" "helm-bookmark.el" "helm-ring.el" "helm-imenu.el" "helm-grep.elc" "helm-semantic.elc" "helm-types.el" "helm-mode.elc" "helm-easymenu.elc" "doc/" "helm-command.elc" ".gitignore" "helm-autoloads.el" "helm-command.el" "helm-eval.el" "helm-source.elc" "helm-utils.elc" "./" "helm-bookmark.elc" "helm-locate.elc")
-
- ("/home/mayukuse24/sugar-build/" (22124 14723 903279 898000) "imageviewer/" "chat/" ".git/" "sugar-toolkit/" ".lock" "osbuild" "README.md" "pippy/" "browse/" "sugar-toolkit-gtk3/" "docker/" "sugar-datastore/" "sugar/" "log/" "read/" "jukebox/" "write/" "../" "sugar-runner/" "terminal/" "clock-web/" "sugar-base/" ".lock-host" "sugar-web-test/" "sugar-web/" "sugar-web-template/" "automake/" "turtleart/" ".gitmodules" "sugar-docs/" "gwebsockets/" "home/" "activities/" "build/" "sugar-artwork/" ".gitignore" "gtd-activity/" "./")
-
- ("/home/mayukuse24/core/" (22122 49956 833200 932000) "UPGRADE" ".git/" "HISTORY" "composer.json" "StartProfiler.sample" "wiki.phtml" "img_auth.php" "index.php" ".jscsrc" "tests/" "autoload.php" "opensearch_desc.php" ".mailmap" "skins/" "Rakefile" "INSTALL" "includes/" "languages/" "README" "docs/" "../" "resources/" ".jshintignore" "jsduck.json" "load.php" "serialized/" ".gitreview" "Gemfile.lock" ".rubocop.yml" ".gitattributes" "thumb_handler.php" "package.json" "FAQ" "images/" ".travis.yml" "Gemfile" "README.mediawiki" "COPYING" "RELEASE-NOTES-1.27" ".jshintrc" "cache/" "CREDITS" "Gruntfile.js" "phpcs.xml" ".gitignore" "profileinfo.php" "api.php" "mw-config/" "maintenance/" "./" "extensions/" "thumb.php")
-
- ("/home/" (22120 13621 653732 711000) "../" "mayukuse24/" "lost+found/" "./")
-
- ("/home/mayukuse24/.emacs.d/helm/" (22124 34148 686789 921000) "helm-elisp-package.elc" "helm-files.el" "helm-dabbrev.elc" "helm-adaptive.el" "helm-sys.el" "helm-font.el" ".git/" "helm-id-utils.el" "helm-config.el" "helm-regexp.el" "helm-lib.elc" "helm-tags.elc" "helm-org.el" "helm-elscreen.elc" "helm-mode.el" "helm-easymenu.el" "helm-imenu.elc" "README.md" "helm-info.elc" "helm-multi-match.elc" "helm-apt.elc" "helm-buffers.elc" "helm-buffers.el" "helm-external.el" "helm.elc" "helm-eshell.el" "helm-net.elc" "helm-plugin.elc" "helm-plugin.el" "helm-man.elc" "helm-color.elc" "../" "helm-help.el" "helm-elisp.el" "helm-grep.el" "helm-elscreen.el" "helm-config.elc" "helm-elisp-package.el" "helm-pkg.el" "helm-multi-match.el" "helm-org.elc" "helm-semantic.el" "helm-id-utils.elc" "helm-dabbrev.el" "helm-regexp.elc" "helm-utils.el" "helm-elisp.elc" "helm-locate.el" "helm-external.elc" "helm-source.el" "Makefile" "helm-net.el" "helm-core-pkg.el" "helm-files.elc" "helm.el" "helm-color.el" "helm-man.el" "helm-lib.el" "helm-apt.el" "helm-ring.elc" "helm-types.elc" "helm-help.elc" "helm-misc.el" "COPYING" "emacs-helm.sh" "helm-eshell.elc" "helm-adaptive.elc" "helm-misc.elc" "helm-sys.elc" "helm-eval.elc" "helm-info.el" "helm-font.elc" "helm-tags.el" "helm-bookmark.el" "helm-ring.el" "helm-imenu.el" "helm-grep.elc" "helm-semantic.elc" "helm-types.el" "helm-mode.elc" "helm-easymenu.elc" "doc/" "helm-command.elc" ".gitignore" "helm-autoloads.el" "helm-command.el" "helm-eval.el" "helm-source.elc" "helm-utils.elc" "./" "helm-bookmark.elc" "helm-locate.elc")
 )
 
 ;; ----- ido-unc-hosts-cache -----

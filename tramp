@@ -1,4 +1,4 @@
-;; -*- emacs-lisp -*- <16/04/02 16:16:07 /home/mayukuse24/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <16/08/22 04:15:42 /home/mayukuse/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
@@ -24,5 +24,31 @@
   ("touch-t" t)
   ("touch" "\\touch")
   ("ls" "/bin/ls --color=never"))
+ (["scp" "mayukuse" "mayukuse24" nil nil]
+  nil)
  (["scp" nil "sudo" nil nil]
-  nil))
+  nil)
+ (["sudo" "root" "localhost" nil nil]
+  ("locale" "LC_ALL=en_US.utf8")
+  ("uname" "Linux 4.7.0-1-ARCH")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("~root" "/root")
+  ("ls" "/bin/ls --color=never")
+  ("ls-dired" t)
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("id" "/bin/id")
+  ("gid-integer" 0)
+  ("gid-string" "root")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("readlink" "\\readlink")
+  ("uid-integer" 0)
+  ("tmpdir" "/sudo:root@localhost:/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch")
+  ("git" "\\git")))

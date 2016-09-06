@@ -1,5 +1,8 @@
 (when (>= emacs-major-version 24)
   (require 'package)
+  (setq package-archives '(("ELPA" . "http://tromey.com/elpa/") 
+			   ("gnu" . "http://elpa.gnu.org/packages/")
+			   ("marmalade" . "http://marmalade-repo.org/packages/")))
   (add-to-list
    'package-archives
    '("melpa" . "http://melpa.org/packages/")
@@ -38,6 +41,26 @@
      ("#A45E0A" . 70)
      ("#A41F99" . 85)
      ("#49483E" . 100))))
+ '(ibuffer-saved-filter-groups nil)
+ '(ibuffer-saved-filters
+   (quote
+    (("google-protobuf"
+      ((filename . "addressbook")))
+     ("gnus"
+      ((or
+	(mode . message-mode)
+	(mode . mail-mode)
+	(mode . gnus-group-mode)
+	(mode . gnus-summary-mode)
+	(mode . gnus-article-mode))))
+     ("programming"
+      ((or
+	(mode . emacs-lisp-mode)
+	(mode . cperl-mode)
+	(mode . c-mode)
+	(mode . java-mode)
+	(mode . idl-mode)
+	(mode . lisp-mode)))))))
  '(magit-diff-use-overlays nil)
  '(nrepl-message-colors
    (quote
@@ -91,8 +114,8 @@
 
 (add-to-list 'load-path "~/.emacs.d/emacs-async")
 
-(add-to-list 'load-path "~/.emacs.d/helm")
-(require 'helm-config)
+;;(add-to-list 'load-path "~/.emacs.d/helm")
+;;(require 'helm-config)
 
 (tool-bar-mode -1)
 
@@ -110,10 +133,17 @@
 
 (display-time-mode 1)
 
+;;Use C-h k to find bindings and C-c h to see all
+(global-set-key (kbd "C-z") 'kill-line)
+(global-set-key (kbd "M-z") 'yank)
+
 ;; key bindings for shifting buffers
-(global-set-key (kbd "<s-left>") 'previous-buffer)
-(global-set-key (kbd "<s-right>") 'next-buffer)
+(global-set-key (kbd "<M-left>") 'previous-buffer)
+(global-set-key (kbd "<M-right>") 'next-buffer)
+
+(global-set-key (kbd "<M-up>") 'other-window)
+(global-set-key (kbd "C-x b") 'ibuffer)
 
 ;; key-binding for magit (git for emacs)
-(global-set-key (kbd "s-g") 'magit-status)
+;;(global-set-key (kbd "s-g") 'magit-status)
 
