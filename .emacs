@@ -65,6 +65,10 @@
  '(nrepl-message-colors
    (quote
     ("#CC9393" "#DFAF8F" "#F0DFAF" "#7F9F7F" "#BFEBBF" "#93E0E3" "#94BFF3" "#DC8CC3")))
+ '(org-agenda-files (quote ("~/Dropbox/college-files/plan.org")))
+ '(package-selected-packages
+   (quote
+    (impatient-mode evil helm zerodark-theme zenburn-theme yasnippet web-mode smooth-scrolling smex python-mode pylint org monokai-theme marmalade-demo markdown-mode+ magit flycheck-protobuf flycheck-irony fancy-battery elscreen company-irony auto-complete)))
  '(pos-tip-background-color "#A6E22E")
  '(pos-tip-foreground-color "#272822")
  '(vc-annotate-background nil)
@@ -137,12 +141,31 @@
 (global-set-key (kbd "C-z") 'kill-line)
 (global-set-key (kbd "M-z") 'yank)
 
+(global-set-key (kbd "M-k") 'next-line)
+(global-set-key (kbd "M-i") 'previous-line)
+(global-set-key (kbd "M-j") 'backward-char)
+(global-set-key (kbd "M-l") 'forward-char)
+
 ;; key bindings for shifting buffers
 (global-set-key (kbd "<M-left>") 'previous-buffer)
 (global-set-key (kbd "<M-right>") 'next-buffer)
 
 (global-set-key (kbd "<M-up>") 'other-window)
 (global-set-key (kbd "C-x b") 'ibuffer)
+
+(require 'helm-config)
+(helm-mode 1)
+
+(global-set-key "\C-ca" 'org-agenda)
+
+(require 'simple-httpd)
+(setq httpd-root "/var/www")
+(httpd-start)
+
+(defun markdown-html (buffer)
+  (princ (with-current-buffer buffer
+          (format "<!DOCTYPE html><html><title>Impatient Markdown</title><xmp theme=\"united\" style=\"display:none;\"> %s  </xmp><script src=\"http://strapdownjs.com/v/0.2/strapdown.js\"></script></html>" (buffer-substring-no-properties (point-min) (point-max))))
+	 (current-buffer)))
 
 ;; key-binding for magit (git for emacs)
 ;;(global-set-key (kbd "s-g") 'magit-status)
